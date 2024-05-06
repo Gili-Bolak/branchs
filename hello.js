@@ -10,5 +10,5 @@ const b = () => {
 }
 
 const c = () => {
-    console.log("ccc");
+    console.log("function c");
 }
