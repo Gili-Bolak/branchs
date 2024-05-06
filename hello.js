@@ -8,3 +8,7 @@ const b = () => {
     return '5';
 
 }
+
+const d = () => {
+    confirm("Are you sure?")
+}
